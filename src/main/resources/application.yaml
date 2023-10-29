@@ -6,4 +6,4 @@ spring:
         registration:
           okta:
             assertingparty:
-              metadata-uri: <https://dev-03064001.okta.com/app/exkczcc509fuEjz2g5d7/sso/saml/metadata>
+              metadata-uri: https://dev-03064001.okta.com/app/exkczcc509fuEjz2g5d7/sso/saml/metadata
